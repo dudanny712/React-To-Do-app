@@ -1,4 +1,4 @@
-## This Todoist clone built from Scratch Using React (Custom Hooks, Context), 
+## This Todoist clone built from Scratch Using React (Custom Hooks, Context)
 Firebase & React Testing Library 
 
 This  Todoist clone was built using create-react-app as a base, and the technologies used were React, Firebase & React Testing Library.
@@ -7,13 +7,13 @@ This app also explores the concept of SCSS/SASS.
 
 To start the app:
 
-##Download the zipfile
+Download the zipfile
 
-## Run npm install
+Run npm install
 
 followed by
 
-##npm start
+npm start
 
 Dependencies to install
 
@@ -22,4 +22,4 @@ Dependencies to install
 3. Sass.
 4. React-icons.
 
-
+*This was followed from a youtube tutorial from free code camp.
